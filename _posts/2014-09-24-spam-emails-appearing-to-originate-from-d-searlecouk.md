@@ -12,10 +12,10 @@ If you are receiving emails from approval at d-searle.co.uk These emails do *not
 This address has been used as a from address by spammers to as a masquerade transport viruses. 
 There is *nothing* I can do to stop these messages.
 
-See the advice from Gmail on this subject @ [http://support.google.com/mail/answer/50200?hl=ent](Gmail)
+See the advice from Gmail on this subject @ [Gmail](http://support.google.com/mail/answer/50200?hl=ent)
 
 Example Message:
-----------------
+================
 
     From: Marcela Belsey 
     To: *Your address*
