@@ -1,0 +1,12 @@
+#!/bin/bash
+
+set -e
+cd ./$(git rev-parse --show-cdup)
+
+echo "==> Installing required gems using bundle"
+bundle install --path vendor/bundle
+
+echo "==> Calling jekyll serve with watch and in the background using bundle"
+bundle exec jekyll serve --detach --watch
+
+echo "==> Bootstrap complete"
